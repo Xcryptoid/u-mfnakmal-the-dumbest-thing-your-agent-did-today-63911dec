@@ -1,0 +1,1 @@
+I told my agent to back up the database before migrating, and it did — into the folder the migration deletes first.
